@@ -18,10 +18,10 @@ O projeto reforçou habilidades essenciais em Data Science e demonstrou o potenc
 
 
 
-Este desafio foi pensado para aplicar os conhecimentos adquiridos nos seguintes cursos:
+Este desafio foi pensado para aplicar os conhecimentos adquiridos nos seguintes formações:
 
-NumPy: análise numérica eficiente com Python
-Pandas: conhecendo a biblioteca
-Pandas I/O: trabalhando com diferentes formatos de arquivos
-Pandas: transformação e manipulação de dados
-Data Visualization: criando gráficos com bibliotecas Python
+* NumPy: análise numérica eficiente com Python
+* Pandas: conhecendo a biblioteca
+* Pandas I/O: trabalhando com diferentes formatos de arquivos
+* Pandas: transformação e manipulação de dados
+* Data Visualization: criando gráficos com bibliotecas Python
