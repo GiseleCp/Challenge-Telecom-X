@@ -15,3 +15,13 @@ As etapas incluíram:
 * Geração de insights estratégicos a partir da identificação de padrões e correlações entre variáveis, contribuindo para a formulação de hipóteses e tomada de decisões baseadas em dados.
 
 O projeto reforçou habilidades essenciais em Data Science e demonstrou o potencial do uso de Python e suas bibliotecas para resolver problemas reais enfrentados por empresas.
+
+
+
+Este desafio foi pensado para aplicar os conhecimentos adquiridos nos seguintes cursos:
+
+NumPy: análise numérica eficiente com Python
+Pandas: conhecendo a biblioteca
+Pandas I/O: trabalhando com diferentes formatos de arquivos
+Pandas: transformação e manipulação de dados
+Data Visualization: criando gráficos com bibliotecas Python
