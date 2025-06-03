@@ -40,6 +40,7 @@ account.Charges.Total → Valor Total
 
 internet.StreamingTV → Streaming TV
 
+
 🧠 Objetivo
 Após a limpeza, o conjunto de dados está pronto para:
 
@@ -48,6 +49,7 @@ Análise exploratória (EDA)
 Treinamento de modelos preditivos (classificação binária)
 
 Interpretação de variáveis associadas à evasão de clientes
+
 
 🗃️ Backup dos dados
 Os dados foram salvos em formato .json para fins de versionamento e auditoria.
