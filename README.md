@@ -5,6 +5,7 @@ Desafio Telecom X - Aplicação prática do conhecimento - especialização Data
 Este projeto tem como objetivo preparar um conjunto de dados para análise preditiva de evasão de clientes (churn), aplicando técnicas de limpeza, padronização e transformação de dados para uso em algoritmos de machine learning.
 
 🧹 Etapas de Limpeza e Transformação
+
 ✅ 1. Padronização de texto
 Todos os valores textuais (object) foram convertidos para minúsculas e tiveram espaços em branco removidos.
 
@@ -33,11 +34,11 @@ Colunas foram renomeadas com nomes mais descritivos e em português, mantendo os
 
 Exemplo:
 
-customer.gender → customer.genero
+customer.gender → Gênero do cliente
 
-account.Charges.Total → account.valor_total
+account.Charges.Total → Valor Total
 
-internet.StreamingTV → internet.streaming_tv
+internet.StreamingTV → Streaming TV
 
 🧠 Objetivo
 Após a limpeza, o conjunto de dados está pronto para:
